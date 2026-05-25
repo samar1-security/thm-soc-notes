@@ -1,4 +1,3 @@
-
 # Cyber Defense & SOC Analyst Learning
 
 Security analyst learning journey. TryHackMe, HackTheBox, and other platforms.
@@ -15,20 +14,25 @@ Building SOC fundamentals and defensive security skills as a pathway to penetrat
 
 ## Progress
 
-### Day 1
+### Day 1 ✅
 - **Room:** Blue Team Introduction
 - **Topics:** SOC roles, attack vectors, L1 analyst duties
 - **Notes:** [blue-team-intro.md](./blue-team-intro.md)
 
 ## Learning Path
+
+### Blue Team Introduction Module
 - [x] Blue Team Introduction
 - [ ] Junior Security Analyst Intro
 - [ ] SOC Role in Blue Team
 - [ ] Humans as Attack Vectors
 - [ ] Systems as Attack Vectors
+
+### Cyber Defense Path (Next)
 - [ ] Log Analysis
 - [ ] SIEM Fundamentals
 - [ ] Incident Response
+- [ ] (Additional rooms...)
 
 ## Tools & Platforms
 - TryHackMe (Cyber Defense Path)
@@ -37,6 +41,7 @@ Building SOC fundamentals and defensive security skills as a pathway to penetrat
 - Log analysis platforms
 
 ## Goal
+
 Master SOC analyst skills → Transition to penetration testing roles.
 
 ---
