@@ -27,6 +27,7 @@ Building SOC fundamentals and defensive security skills as a pathway to penetrat
 - [x] SOC Role in Blue Team
 - [x] Humans as Attack Vectors
 - [x] Systems as Attack Vectors
+- [ ] Blue Team Internals
 
 ### Cyber Defense Path
 - [ ] Log Analysis
