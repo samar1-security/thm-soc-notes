@@ -46,4 +46,4 @@ Master SOC analyst skills → Transition to penetration testing roles.
 
 ---
 
-*Last updated: May 24, 2026*
+*Last updated: May 25, 2026*
