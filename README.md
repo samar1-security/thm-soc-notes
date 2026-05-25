@@ -23,12 +23,12 @@ Building SOC fundamentals and defensive security skills as a pathway to penetrat
 
 ### Blue Team Introduction Module
 - [x] Blue Team Introduction
-- [ ] Junior Security Analyst Intro
-- [ ] SOC Role in Blue Team
-- [ ] Humans as Attack Vectors
-- [ ] Systems as Attack Vectors
+- [x] Junior Security Analyst Intro
+- [x] SOC Role in Blue Team
+- [x] Humans as Attack Vectors
+- [x] Systems as Attack Vectors
 
-### Cyber Defense Path (Next)
+### Cyber Defense Path
 - [ ] Log Analysis
 - [ ] SIEM Fundamentals
 - [ ] Incident Response
