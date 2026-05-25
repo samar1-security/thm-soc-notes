@@ -17,36 +17,48 @@ Building SOC fundamentals and defensive security skills as a pathway to penetrat
 ### Day 1 ✅
 - **Module:** Blue Team Introduction (5 rooms)
 - **Topics:** SOC roles, attack vectors, L1 analyst duties, defense strategies
-- **Notes:** [blue-team-introduction.md](./blue-team-intro.md)
+- **Notes:** [blue-team-intro.md](./blue-team-intro.md)
 
 ### Day 2 ✅
-- **Module:** SOC Team Internals (1 room completed)
+- **Module:** SOC Team Internals (1/5 rooms)
 - **Topics:** Alert triage, alert properties, prioritization, SIEM workflow
-- **Notes:** [soc-modules/soc-team-internals.md](./soc-team-internals/SOC-L1-Alert Triage.md)
-
-## Learning Path
-
-### Completed ✅
-- [x] Blue Team Introduction Module (5/5 rooms)
-- [x] SOC Team Internals (1/5 rooms)
-
-### In Progress
-- [ ] SOC Team Internals (4 rooms remaining)
-- [ ] Core SOC Solutions (5 rooms)
-- [ ] Cyber Defence Frameworks (5 rooms)
-- [ ] Phishing Analysis (5 rooms)
-- [ ] Network Traffic Analysis (5 rooms)
-- [ ] Network Security Monitoring (5 rooms)
-- [ ] Web Security Monitoring (5 rooms)
-- [ ] Windows Security Monitoring (5 rooms)
-- [ ] Linux Security Monitoring (5 rooms)
-- [ ] Malware Concepts for SOC (5 rooms)
-- [ ] Threat Analysis Tools (5 rooms)
-- [ ] SIEM Triage for SOC (5 rooms)
-- [ ] SOC Level 1 Capstone Challenges (5 rooms)
-- [ ] Security Analyst Level 1 (SAL1) (5 rooms)
+- **Notes:** [soc-team-internals/soc-l1-alert-triage.md](./soc-team-internals/soc-l1-alert-triage.md)
 
 **Total Progress:** 6/63 rooms completed (9%)
+
+## Notes by Module
+
+### Blue Team Introduction
+- [Blue Team Introduction](./blue-team-intro.md)
+
+### SOC Team Internals
+- [L1 Alert Triage](./soc-team-internals/soc-l1-alert-triage.md)
+
+### Core SOC Solutions
+
+### Cyber Defence Frameworks
+
+### Phishing Analysis
+
+### Network Traffic Analysis
+
+### Network Security Monitoring
+
+### Web Security Monitoring
+
+### Windows Security Monitoring
+
+### Linux Security Monitoring
+
+### Malware Concepts for SOC
+
+### Threat Analysis Tools
+
+### SIEM Triage for SOC
+
+### SOC Level 1 Capstone Challenges
+
+### Security Analyst Level 1 (SAL1)
 
 ## Tools & Platforms
 - TryHackMe (Cyber Defense Path)
@@ -57,7 +69,7 @@ Building SOC fundamentals and defensive security skills as a pathway to penetrat
 
 ## Goal
 
-Master SOC analyst skills (SAL1 certification) → Transition to penetration testing roles within 12 months.
+Master SOC analyst skills (SAL1 certification) → Transition to penetration testing roles.
 
 ## Next Steps
 
