@@ -14,17 +14,15 @@ Building SOC fundamentals and defensive security skills as a pathway to penetrat
 
 ## Progress
 
-### Day 1 ✅
-- **Module:** Blue Team Introduction (5 rooms)
-- **Topics:** SOC roles, attack vectors, L1 analyst duties, defense strategies
-- **Notes:** [blue-team-intro.md](./blue-team-introduction/blue-team-intro.md)
+### Completed
 
-### Day 2 ✅
-- **Module:** SOC Team Internals (1/5 rooms)
-- **Topics:** Alert triage, alert properties, prioritization, SIEM workflow
-- **Notes:** [soc-team-internals/soc-l1-alert-triage.md](./soc-team-internals/soc-l1-alert-triage.md)
+**Blue Team Introduction Module**
+- [Blue Team Introduction](./blue-team-intro.md)
 
-**Total Progress:** 6/63 rooms completed (9%)
+**SOC Team Internals Module**
+- [L1 Alert Triage](./soc-team-internals/soc-l1-alert-triage.md)
+
+**Total Rooms:** 6/63 completed
 
 ## Notes by Module
 
@@ -38,27 +36,7 @@ Building SOC fundamentals and defensive security skills as a pathway to penetrat
 
 ### Cyber Defence Frameworks
 
-### Phishing Analysis
-
-### Network Traffic Analysis
-
-### Network Security Monitoring
-
-### Web Security Monitoring
-
-### Windows Security Monitoring
-
-### Linux Security Monitoring
-
-### Malware Concepts for SOC
-
-### Threat Analysis Tools
-
-### SIEM Triage for SOC
-
-### SOC Level 1 Capstone Challenges
-
-### Security Analyst Level 1 (SAL1)
+[... rest of modules ...]
 
 ## Tools & Platforms
 - TryHackMe (Cyber Defense Path)
@@ -69,14 +47,7 @@ Building SOC fundamentals and defensive security skills as a pathway to penetrat
 
 ## Goal
 
-Master SOC analyst skills (SAL1 certification) → Transition to penetration testing roles.
-
-## Next Steps
-
-- Complete 1 SOC room daily
-- Watch LiveOverflow exploit dev videos
-- Build 10+ working exploits on GitHub
-- Complete 75HARD challenge by Day 75
+Master SOC analyst skills and transition to penetration testing roles.
 
 ---
 
