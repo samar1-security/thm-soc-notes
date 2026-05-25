@@ -17,7 +17,7 @@ Building SOC fundamentals and defensive security skills as a pathway to penetrat
 ### Day 1 ✅
 - **Module:** Blue Team Introduction (5 rooms)
 - **Topics:** SOC roles, attack vectors, L1 analyst duties, defense strategies
-- **Notes:** [blue-team-intro.md](./blue-team-intro.md)
+- **Notes:** [blue-team-intro.md](./blue-team-introduction/blue-team-intro.md)
 
 ### Day 2 ✅
 - **Module:** SOC Team Internals (1/5 rooms)
