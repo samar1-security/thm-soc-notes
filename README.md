@@ -21,7 +21,7 @@ Building SOC fundamentals and defensive security skills as a pathway to penetrat
 
 **SOC Team Internals Module**
 - [L1 Alert Triage](./soc-team-internals/soc-l1-alert-triage.md)
-- [L1 Alert Reporting and Escalation](./soc-team-internals/soc-alert-reporting.md)
+- [L1 Alert Reporting and Escalation](./soc-team-internals/soc-alert-reporting-and-escalation.md)
 
 **Total Rooms:** 6/63 completed
 
@@ -32,7 +32,7 @@ Building SOC fundamentals and defensive security skills as a pathway to penetrat
 
 ### SOC Team Internals
 - [L1 Alert Triage](./soc-team-internals/soc-l1-alert-triage.md)
-- [L1 Alert Reporting and Escalation](./soc-team-internals/soc-alert-reporting.md)
+- [L1 Alert Reporting and Escalation](./soc-team-internals/soc-alert-reporting-and-escalation.md)
 
 ### Core SOC Solutions
 
