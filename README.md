@@ -21,6 +21,7 @@ Building SOC fundamentals and defensive security skills as a pathway to penetrat
 
 **SOC Team Internals Module**
 - [L1 Alert Triage](./soc-team-internals/soc-l1-alert-triage.md)
+- [L1 Alert Reporting](./soc-team-internals/soc-alert-reporting.md)
 
 **Total Rooms:** 6/63 completed
 
@@ -31,6 +32,7 @@ Building SOC fundamentals and defensive security skills as a pathway to penetrat
 
 ### SOC Team Internals
 - [L1 Alert Triage](./soc-team-internals/soc-l1-alert-triage.md)
+- [L1 Alert Reporting](./soc-team-internals/soc-alert-reporting.md)
 
 ### Core SOC Solutions
 
@@ -51,4 +53,4 @@ Master SOC analyst skills and transition to penetration testing roles.
 
 ---
 
-*Last updated: May 25, 2026*
+*Last updated: May 26, 2026*
