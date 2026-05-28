@@ -11,10 +11,11 @@ Building SOC fundamentals and defensive security skills as a pathway to penetrat
 - Incident response & threat analysis
 - Log analysis & SIEM
 - Alert triage & detection
+- Asset inventory & workbooks
 
 ## Progress
 
-### Completed
+### Completed Rooms: 6/63
 
 **Blue Team Introduction Module**
 - [Blue Team Introduction](./blue-team-intro.md)
@@ -22,23 +23,17 @@ Building SOC fundamentals and defensive security skills as a pathway to penetrat
 **SOC Team Internals Module**
 - [L1 Alert Triage](./soc-team-internals/soc-l1-alert-triage.md)
 - [L1 Alert Reporting and Escalation](./soc-team-internals/soc-alert-reporting-and-escalation.md)
+- [SOC Workbooks & Lookups](./soc-team-internals/soc-workbooks-lookups.md)
 
-**Total Rooms:** 6/63 completed
+## Notes by Topic
 
-## Notes by Module
-
-### Blue Team Introduction
+### Blue Team Fundamentals
 - [Blue Team Introduction](./blue-team-intro.md)
 
-### SOC Team Internals
+### SOC Operations
 - [L1 Alert Triage](./soc-team-internals/soc-l1-alert-triage.md)
 - [L1 Alert Reporting and Escalation](./soc-team-internals/soc-alert-reporting-and-escalation.md)
-
-### Core SOC Solutions
-
-### Cyber Defence Frameworks
-
-[... rest of modules ...]
+- [SOC Workbooks & Lookups](./soc-team-internals/soc-workbooks-lookups.md)
 
 ## Tools & Platforms
 - TryHackMe (Cyber Defense Path)
@@ -46,6 +41,8 @@ Building SOC fundamentals and defensive security skills as a pathway to penetrat
 - SIEM tools (Splunk, ELK)
 - Log analysis platforms
 - EDR/NDR (MS Defender, CrowdStrike)
+- Active Directory
+- Asset Management Tools
 
 ## Goal
 
@@ -53,4 +50,4 @@ Master SOC analyst skills and transition to penetration testing roles.
 
 ---
 
-*Last updated: May 26, 2026*
+*Last updated: May 27, 2026*
