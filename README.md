@@ -38,6 +38,9 @@ Building SOC fundamentals and defensive security skills as a pathway to penetrat
 - [L1 Alert Reporting and Escalation](./soc-team-internals/soc-alert-reporting-and-escalation.md)
 - [SOC Workbooks & Lookups](./soc-team-internals/soc-workbooks-lookups.md)
 
+### Core SOC Solutions
+- [Introduction to EDR](./core-soc-solutions/introduction-to-edr.md)
+
 ## Tools & Platforms
 - TryHackMe (Cyber Defense Path)
 - HackTheBox Academy
