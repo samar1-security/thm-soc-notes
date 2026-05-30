@@ -25,6 +25,9 @@ Building SOC fundamentals and defensive security skills as a pathway to penetrat
 - [L1 Alert Reporting and Escalation](./soc-team-internals/soc-alert-reporting-and-escalation.md)
 - [SOC Workbooks & Lookups](./soc-team-internals/soc-workbooks-lookups.md)
 
+**Core SOC Solutions Module**
+- [Introduction to EDR](./core-soc-solutions/introduction-to-edr.md)
+
 ## Notes by Topic
 
 ### Blue Team Fundamentals
@@ -50,4 +53,4 @@ Master SOC analyst skills and transition to penetration testing roles.
 
 ---
 
-*Last updated: May 28, 2026*
+*Last updated: May 29, 2026*
