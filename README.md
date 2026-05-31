@@ -27,6 +27,7 @@ Building SOC fundamentals and defensive security skills as a pathway to penetrat
 
 **Core SOC Solutions Module**
 - [Introduction to EDR](./core-soc-solutions/introduction-to-edr.md)
+- [Introduction to SIEM](./core-soc-solutions/introduction-to-siem.md)
 
 ## Notes by Topic
 
@@ -56,4 +57,4 @@ Master SOC analyst skills and transition to penetration testing roles.
 
 ---
 
-*Last updated: May 29, 2026*
+*Last updated: May 30, 2026*
