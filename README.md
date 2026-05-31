@@ -27,7 +27,7 @@ Building SOC fundamentals and defensive security skills as a pathway to penetrat
 
 **Core SOC Solutions Module**
 - [Introduction to EDR](./core-soc-solutions/introduction-to-edr.md)
-- [Introduction to SIEM](./core-soc-solutions/introduction-to-siem.md)
+- [Introduction to SIEM](./core-soc-solutions/Introduction-to-siem.md)
 
 ## Notes by Topic
 
@@ -41,6 +41,7 @@ Building SOC fundamentals and defensive security skills as a pathway to penetrat
 
 ### Core SOC Solutions
 - [Introduction to EDR](./core-soc-solutions/introduction-to-edr.md)
+- [Introduction to SIEM](./core-soc-solutions/Introduction-to-siem.md)
 
 ## Tools & Platforms
 - TryHackMe (Cyber Defense Path)
