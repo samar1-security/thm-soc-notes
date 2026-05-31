@@ -228,7 +228,3 @@ False Positive → Tune Rules
 - Provides dashboards for analyst monitoring
 - Enables quick response to true positives
 - Requires continuous rule tuning for accuracy
-
----
-
-*Last updated: May 30, 2026*
